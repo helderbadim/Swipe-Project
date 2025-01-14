@@ -23,6 +23,7 @@ https://helderbadim.github.io/Swipe-Project/
 
 ## 📂 Project Structure
 
+```plaintext
 Swipe-Project/
 - index.html         # Main HTML file
 - styles/            # Folder containing CSS styles
@@ -31,7 +32,7 @@ Swipe-Project/
   - script.js        # Logic for swipe functionality
 - assets/            # Folder for images or other resources
 - README.md          # Project documentation (this file)
-
+```
 
 ## 🎯 Purpose
 

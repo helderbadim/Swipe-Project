@@ -12,15 +12,6 @@ The **Swipe Project** is a payment system infrastructure that simplifies online 
 
 ---
 
-## **Features**
-- 💳 **Secure Payment Processing**: Designed with encryption to ensure data safety.
-- 🚀 **Scalable Infrastructure**: Handles growing transaction volumes without performance issues.
-- 🌐 **Multi-Currency Support**: Built to accommodate transactions from customers worldwide.
-- ⚡ **Real-Time Transactions**: Fast and efficient processing for a smooth user experience.
-- 📊 **User-Friendly Interface**: Intuitive design that simplifies the payment process for all users.
-
----
-
 ## **Technologies Used**
 - **HTML5**: Provides structure to the website.
 - **CSS3**: Ensures a responsive and visually appealing design.

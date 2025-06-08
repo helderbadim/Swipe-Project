@@ -1,6 +1,6 @@
-# Swipe Project 👆💻
+# 🌀 Swipe Website Clone
 
-A modern **payment infrastructure** designed to enable secure, scalable, and seamless payment processing. This project provides a robust platform for businesses to manage transactions efficiently while delivering a user-friendly experience.
+A front-end clone of the original [Swipe](https://www.swipe.io) homepage, built using **HTML**, **CSS**, and **JavaScript**. This project was created for learning and practice purposes, focusing on replicating modern UI/UX design without any frameworks.
 
 [🌐 **Live Demo**](https://helderbadim.github.io/Swipe-Project/)
 
